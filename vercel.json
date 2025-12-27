@@ -7,7 +7,7 @@
     }
   ],
   "env": {
-    "NEXT_PUBLIC_API_URL": "@next-public-api-url",
-    "DATABASE_URL": "@database-url"
+    "NEXT_PUBLIC_SUPABASE_URL": "@next-public-supabase-url",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@next-public-supabase-anon-key"
   }
 }
